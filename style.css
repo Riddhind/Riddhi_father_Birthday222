@@ -1,0 +1,33 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+
+#myCanvas{
+    border-width: 10px;
+    background-color:white;
+    border-style: ridge;
+    border-color: darkviolet;
+}
+   
+#For_dad{
+   color: black;
+   height: 80px;
+   width: 210px;
+   border-radius: 13px;
+   background-color:lightpink;
+   border-color: hotpink;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 25px;
+
+}
+
+#lab_lab{
+    height:40px;
+    width: 2170px;
+    font-size: 22px;
+    font-family:monospace;
+     color:black;
+}
